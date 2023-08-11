@@ -14,5 +14,7 @@ Here is a small tool that allows generating a C++ class automatically.
 This has been developed using the Qt 6.5.2 library.
 So, you will need to download it and modify the CMakeLists.txt file accordingly based on the location of the library.
 
+**Preview for macOS**
 ![**Preview for macOS**](github-macos.png)
+**Preview for Windows**
 ![**Preview for Windows](github-w10.png)

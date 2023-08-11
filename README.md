@@ -3,16 +3,17 @@
 🇫🇷 Français
 Voici un petit outil développé en C++ permettant de générer une classe C++ automatiquement.
 
-**Conseils** :
+**Conseils d'utilisation** :
 Ceci a été réalisé avec la librairie Qt 6.5.2.
-Il vous faudra donc la télécharger et modifier le fichier CMakeLists.txt en fonction d'où se trouve la librairie.
+Il vous faudra donc la télécharger.
+Créez un nouveau projet Qt et glissez les fichiers et dossiers dans le projet.
 
 🇬🇧 English
 Here is a small tool developed in C++ that allows generating a C++ class automatically.
 
-**Tips**:
+**Instructions for use**:
 This has been developed using the Qt 6.5.2 library.
-So, you will need to download it and modify the CMakeLists.txt file accordingly based on the location of the library.
+So, you will need to download it.
 
 **Preview for macOS**
 ![**Preview for macOS**](github-macos.png)

@@ -14,6 +14,7 @@ Here is a small tool developed in C++ that allows generating a C++ class automat
 **Instructions for use**:
 This has been developed using the Qt 6.5.2 library.
 So, you will need to download it.
+Create a new Qt project and drag the files and folders into the project.
 
 **Preview for macOS**
 ![**Preview for macOS**](github-macos.png)
